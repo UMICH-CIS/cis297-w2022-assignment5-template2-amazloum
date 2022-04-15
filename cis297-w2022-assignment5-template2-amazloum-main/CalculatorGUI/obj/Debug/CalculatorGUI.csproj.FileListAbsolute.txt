@@ -1,0 +1,17 @@
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.CalculatorGUIForm.resources
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\csharp\cis297w2022\Ex14_04\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
+C:\Users\Ahmed Mazloum\Downloads\cis297-w2022-assignment5-template2-amazloum-main\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\Users\Ahmed Mazloum\Downloads\cis297-w2022-assignment5-template2-amazloum-main\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\Users\Ahmed Mazloum\Downloads\cis297-w2022-assignment5-template2-amazloum-main\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\Ahmed Mazloum\Downloads\cis297-w2022-assignment5-template2-amazloum-main\CalculatorGUI\obj\Debug\CalculatorGUI.CalculatorGUIForm.resources
+C:\Users\Ahmed Mazloum\Downloads\cis297-w2022-assignment5-template2-amazloum-main\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\Users\Ahmed Mazloum\Downloads\cis297-w2022-assignment5-template2-amazloum-main\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\Ahmed Mazloum\Downloads\cis297-w2022-assignment5-template2-amazloum-main\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Mazloum\Downloads\cis297-w2022-assignment5-template2-amazloum-main\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\Users\Ahmed Mazloum\Downloads\cis297-w2022-assignment5-template2-amazloum-main\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
